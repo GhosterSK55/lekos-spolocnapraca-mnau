@@ -19,3 +19,5 @@ def choose(times):
 		choose(times + 1)
 
 choose(1)
+
+input()
